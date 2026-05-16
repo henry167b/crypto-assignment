@@ -68,7 +68,7 @@ export default function App() {
   const props = { navigate }
 
   return (
-    <div style={{ display: 'flex', height: '100vh', width: '100%', padding: '0 48px', gap: 0 }}>
+    <div style={{ display: 'flex', height: '100vh', width: '100%', minWidth: 900, padding: '0 48px', gap: 0 }}>
 
       {/* ── Left sidebar ── */}
       <div style={{
@@ -86,8 +86,7 @@ export default function App() {
             </div>
           </div>
           <div style={{ fontSize: 11, color: '#4A5080', lineHeight: 1.6 }}>
-            7 proposed improvements<br />
-            Navigation is fully interactive
+            7 proposed improvements
           </div>
         </div>
 
