@@ -45,7 +45,7 @@ const FEATURES = [
   },
   {
     num: '07',
-    title: 'AI Copilot',
+    title: 'AI CROpilot',
     desc: 'CROpilot surfaces a personalised asset shortlist from wallet holdings (eliminates choice paralysis), fields natural-language Q&A ("What happens if ETH drops while I\'m earning?"), outputs plain-English simulator narratives contextualised against TradFi alternatives, and dynamically updates the comparison table with live T-bill and bank FD rates.',
     path: ['Home', 'tap ✦ icon'],
   },
