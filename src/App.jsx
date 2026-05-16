@@ -86,7 +86,7 @@ export default function App() {
             </div>
           </div>
           <div style={{ fontSize: 11, color: '#4A5080', lineHeight: 1.6 }}>
-            7 proposed improvements · 2025<br />
+            7 proposed improvements<br />
             Navigation is fully interactive
           </div>
         </div>
